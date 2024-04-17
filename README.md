@@ -1,1 +1,3 @@
 # miden-playground
+
+hello world
